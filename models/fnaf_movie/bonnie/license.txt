@@ -1,0 +1,11 @@
+Model Information:
+* title:	FNaF Movie Bonnie
+* source:	https://sketchfab.com/3d-models/fnaf-movie-bonnie-3f1d6f02744441caa4d88fd107c0eef2
+* author:	TRexGamer360 (https://sketchfab.com/TRexGamer360)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FNaF Movie Bonnie" (https://sketchfab.com/3d-models/fnaf-movie-bonnie-3f1d6f02744441caa4d88fd107c0eef2) by TRexGamer360 (https://sketchfab.com/TRexGamer360) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

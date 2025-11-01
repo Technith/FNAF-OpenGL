@@ -1,0 +1,11 @@
+Model Information:
+* title:	Metal fnaf door
+* source:	https://sketchfab.com/3d-models/metal-fnaf-door-160a27c4588242838812d9c638c54790
+* author:	Razribx (https://sketchfab.com/shyslavaskavic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Metal fnaf door" (https://sketchfab.com/3d-models/metal-fnaf-door-160a27c4588242838812d9c638c54790) by Razribx (https://sketchfab.com/shyslavaskavic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

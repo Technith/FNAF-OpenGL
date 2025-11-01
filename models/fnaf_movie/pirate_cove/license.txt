@@ -1,0 +1,11 @@
+Model Information:
+* title:	pirate cove
+* source:	https://sketchfab.com/3d-models/pirate-cove-d4816bfe2d1c4337933b3cb3236e3f68
+* author:	Slepskiy (https://sketchfab.com/Slepskiy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "pirate cove" (https://sketchfab.com/3d-models/pirate-cove-d4816bfe2d1c4337933b3cb3236e3f68) by Slepskiy (https://sketchfab.com/Slepskiy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
